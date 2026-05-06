@@ -1,0 +1,9 @@
+install.packages(c(
+  "shiny",
+  "caret",
+  "randomForest",
+  "nnet",
+  "pROC",
+  "ggplot2",
+  "reshape2"
+))
